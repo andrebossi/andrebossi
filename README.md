@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
 
   <a href="https://www.linkedin.com/in/andrebossijr" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <a href="https://discordapp.com/users/Andre%20Bossi#0968" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discordapp.com/users/Andre%20Bossi#0968'"/></a>
