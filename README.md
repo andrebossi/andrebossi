@@ -35,6 +35,12 @@
 
   <a href="https://twitter.com/bossiandre" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link='https://twitter.com/bossiandre'"/></a>
+  
+  <a href="https://medium.com/@andreluizbossi70" alt="Medium">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link='https://medium.com/@andreluizbossi70'"/></a>
+  
+  <a href="https://dev.to/dobolinux" alt="DevTo">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link='https://dev.to/dobolinux'"/></a>
 </p>
 
 # My Status
