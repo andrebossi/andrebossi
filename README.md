@@ -12,15 +12,15 @@
 </div>
 <br>
 <p align="left"> 
-  Me chamo Andre Bossi e sou <strong>Cloud Engineer</strong> Kubernetes, AWS, GCP, Azure, IAC, GitOps, APis.<br>
+  Hi, my name is Andre Bossi and I'm <strong>Cloud Engineer</strong> Kubernetes, AWS, GCP, Azure, IAC, GitOps, APIs.<br>
 </p>
 
 <p align="left">
-  ⌨ Linguagens: <strong>Shell, Python, Golang...</strong>
+  ⌨ Languages: <strong>Shell, Python, Golang...</strong>
 </p>
 
 <p align="left">
-  Minhas redes sociais para contato: ⤵️
+  My social networks for contact: ⤵️
 </p>
 
 <p align="left">
@@ -43,9 +43,9 @@
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link='https://dev.to/dobolinux'"/></a>
 </p>
 
-# My Status
+# My Stats
 <div>
   <a href="https://github.com/andrebossi">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andrebossi&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebossi&layout=compact&langs_count=7&theme=default"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebossi&layout=compact&langs_count=7&theme=default"/>
 </div>
